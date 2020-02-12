@@ -22,5 +22,5 @@ I had experience in developing applications for course projects in python (game 
 ### Сontact  
  +375333206065    
  [VK](https://vk.com/artas0000)    
- Telegrem - @artas0000
+ Telegrem - @artas0000   
  [Git](https://github.com/artas0000)
