@@ -18,8 +18,8 @@ I developed course project on python (game application).
 #### Project [Virtual Keyboard](https://artas0000.github.io/virtual-keyboard/)
 #### Project [Piskel Clone](https://artas0000.github.io/piskel-clone/dist/index.html)
 
-### Сontact  
+### Сontacts  
  +375333206065    
- [VK](https://vk.com/artas0000)    
- Telegrem - @artas0000   
+ anisovich28@gamil.com   
+ Telegram - @artas0000   
  [Git](https://github.com/artas0000)
